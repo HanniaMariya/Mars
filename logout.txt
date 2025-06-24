@@ -1,1 +1,1 @@
-Logout code from main
+Code to logout with button
