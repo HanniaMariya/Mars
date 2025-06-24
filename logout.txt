@@ -1,1 +1,1 @@
-Code to logout with button
+Code to logout with button. Resolved in github
